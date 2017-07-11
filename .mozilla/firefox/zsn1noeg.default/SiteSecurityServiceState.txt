@@ -9,7 +9,7 @@ live.github.com:HSTS	0	17358	1531286527020,1,0
 services.addons.mozilla.org:HPKP	0	17358	1504928557969,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 versioncheck-bg.addons.mozilla.org:HSTS	0	17358	1499744856585,1,0
 blocklist.addons.mozilla.org:HSTS	0	17358	1499744974758,1,0
-shavar.services.mozilla.com:HSTS	0	17358	1531283572046,1,1
+shavar.services.mozilla.com:HSTS	0	17358	1531287172801,1,1
 github.com:HSTS	0	17358	1531286526647,1,1
 self-repair.mozilla.org:HSTS	0	17358	1531280081075,1,1
 mozorg.cdn.mozilla.net:HSTS	0	17358	1499747481043,1,0
@@ -28,5 +28,5 @@ baobao-pic.bj.bcebos.com:HSTS	0	17358	1499834248107,3,0
 github.com:HPKP	0	17358	1504934526648,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho=k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws=K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=iie1VXtL7HzAMF+/PVPR9xzT80kQxdZeJ+zduCB3uj0=LvRiGEjRqfzurezaWuj8Wie2gyHMrW5Q06LspMnox7A=
 avatars0.githubusercontent.com:HSTS	0	17358	1531302766186,1,0
 api.github.com:HSTS	0	17358	1531286529063,1,1
-www.baidu.com:HSTS	0	17358	1499923160967,1,0
+www.baidu.com:HSTS	0	17358	1499923852395,1,0
 ssl.google-analytics.com:HSTS	0	17358	1510633781275,1,1

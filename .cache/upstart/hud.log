@@ -65,3 +65,4 @@ QCoreApplication::postEvent: Unexpected null receiver
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/37793148 接口"
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/75503476 接口"
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/75503853 接口"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "在路径 com.canonical.dbusmenu 的对象上没有 /org/ayatana/bamf/window/37800053 接口"
