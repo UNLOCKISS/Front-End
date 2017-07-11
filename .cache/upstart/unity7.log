@@ -1,0 +1,227 @@
+OpenGL vendor string:   Intel Open Source Technology Center
+OpenGL renderer string: Mesa DRI Intel(R) Haswell Mobile 
+OpenGL version string:  3.0 Mesa 12.0.6
+
+Not software rendered:    [32;01myes[00m
+Not blacklisted:          [32;01myes[00m
+GLX fbconfig:             [32;01myes[00m
+GLX texture from pixmap:  [32;01myes[00m
+GL npot or rect textures: [32;01myes[00m
+GL vertex program:        [32;01myes[00m
+GL fragment program:      [32;01myes[00m
+GL vertex buffer object:  [32;01myes[00m
+GL framebuffer object:    [32;01myes[00m
+GL version is 1.4+:       [32;01myes[00m
+
+Unity 3D supported:       [32;01myes[00m
+Using compiz profile 'ubuntu'
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Starting plugin: opengl
+Compiz (opengl) - Info: GLX_EXT_buffer_age is supported
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2017-07-11 11:31:37 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2017-07-11 11:31:37 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: 无法打开共享对象文件: 没有那个文件或目录 -- full D-Bus introspection will not be available
+WARN  2017-07-11 11:31:37 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (14 vs 28)
+WARN  2017-07-11 11:31:37 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (2 vs 4)
+WARN  2017-07-11 11:31:37 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (3 vs 6)
+WARN  2017-07-11 11:31:37 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
+WARN  2017-07-11 11:31:37 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
+WARN  2017-07-11 11:31:37 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (18 vs 36)
+WARN  2017-07-11 11:31:37 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (4 vs 8)
+WARN  2017-07-11 11:31:37 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : 在搜索目录中无法找到有效的键文件
+WARN  2017-07-11 11:31:38 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2017-07-11 11:31:38 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2017-07-11 11:31:39 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2017-07-11 11:31:39 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2017-07-11 11:31:39 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2017-07-11 11:31:39 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+compiz (core) - Warn: Attempted to restack relative to 0x2c00069 which is not a child of the root window or a window compiz owns
+ERROR 2017-07-11 11:31:42 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
+ERROR 2017-07-11 11:31:42 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:31:42 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-07-11 11:32:18 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+1499743962511	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1499743962512	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1499743962539	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1499743962540	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1499743962550	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1499743962551	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1499743963926	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1499743963927	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1499743963928	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1499743963935	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1499743963935	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1499743963936	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1499744555315	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1499744555320	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1499744555325	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1499744556042	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1499744556099	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1499744556111	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1499744556119	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1499744556127	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1499744676560	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1499744676560	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1499744676562	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1499744794200	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1499744794201	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1499744794206	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+
+(firefox:2561): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:2561): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+WARN  2017-07-11 12:08:11 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:6548): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:6548): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(unity-control-center:6825): Clutter-WARNING **: Whoever translated default:LTR did so wrongly.
+
+(unity-control-center:6895): Clutter-WARNING **: Whoever translated default:LTR did so wrongly.
+WARN  2017-07-11 13:06:27 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:15:15 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+WARN  2017-07-11 13:15:19 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:29 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+WARN  2017-07-11 13:17:34 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:45 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+WARN  2017-07-11 13:17:49 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:17:52 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed
+ERROR 2017-07-11 13:18:12 unity <unknown>:0 gdk_keymap_get_entries_for_keyval: assertion 'keyval != 0' failed

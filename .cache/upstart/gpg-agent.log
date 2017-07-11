@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 1444
+gpgconf: warning: can not open config file /home/kingueen/.gnupg/gpg-agent.conf: 没有那个文件或目录
